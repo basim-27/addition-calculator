@@ -17,3 +17,7 @@ A lightweight JavaScript application that takes two numbers as input via browser
 
 * **HTML5**
 * **JavaScript
+## 🚀 Live Demo
+
+Check out the live project here:  
+👉 **[Addition Calculator Live Link](https://basim-27.github.io/addition-calculator/)**
